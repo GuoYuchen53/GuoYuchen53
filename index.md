@@ -20,10 +20,6 @@ CUHK-UC San Diego Joint Laboratory on Chinese Economy; Department of Economics, 
 My research interests are in **Digital Economics**, **Historical Economics** and **Political Economics**. My work focuses on the use of **big data in economic research**, with a particular emphasis on large-scale text and image data.
 
 **Education**  
-Oct.2025-
-Postdoctoral Fellow, Collaborating Mentor: Ruixue Jia (UCSD), Ying Bai (CUHK)  
-CUHK-UC San Diego Joint Laboratory on Chinese Economy; Department of Economics, Chinese University of Hong Kong
-
 Nov.2023-Nov.2024
 Joint PhD program at the Department of Economics, University of California, San Diego  
 ***Co-Advisor: Ruixue Jia***  
@@ -43,5 +39,6 @@ The Chinese University of Hong Kong,
 Shatin, New Territories, Hong Kong
 
 Email: guoych53[at]gmail.com   
+
 
 
