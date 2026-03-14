@@ -112,28 +112,30 @@ concentrate on goods and construction projects procurement, high-value contracts
 ## Working Papers
 
 
-["Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances"](https://arxiv.org/abs/2507.09419) with [Matthew O. Jackson] (https://web.stanford.edu/~jacksonm/) and [Ruixue Jia](https://www.ruixuejia.com/).   
-*Frontiers in Behavioral Neuroscience*, 2020  
+["Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances"](https://arxiv.org/abs/2507.09419), with [Matthew O. Jackson] (https://web.stanford.edu/~jacksonm/) and [Ruixue Jia](https://www.ruixuejia.com/).   
+*PNAS*, R&R  
 <details>
 <summary><u>Abstract</u></summary> 
-<p> Within the framework of Berry (1994) and Berry, Levinsohn, and Pakes (1995), the existing empirical industrial organization literature often assumes that market size is observed. However, the presence of an unobservable outside option is a common source of mismeasurement. Measurement errors in market size lead to inconsistent estimates of elasticities, diversion ratios, and counterfactual simulations. I explicitly model the market size, and prove point identification of the market size model along with all demand parameters in a random coefficients logit (BLP) model. No additional data beyond what is needed to estimate standard BLP models is required. Identification comes from the exogenous variation in product characteristics across markets and the nonlinearity of the demand system. I apply the method to a merger simulation in the carbonated soft drinks (CSD) market in the US, and find that assuming a market size larger than the true estimated size would underestimate merger price increases.
+<p> Do social networks and peer influence shape major life decisions in highly polarized settings? We explore this question by examining how peers influenced the allegiances of West Point cadets during the American Civil War. Leveraging quasi-random variations in the proportion of cadets from Free States, we analyze how these differences affected decisions about which army to join. We find that a higher proportion of classmates from Free States significantly increased the likelihood that cadets from Slave States joined the Union Army, while almost all cadets from Free States joined the Union Army (if they decided to join the war). We further examine how cadets’ decisions affected their military rank and career outcomes. Our findings highlight that peers still influence choices even when they are life-altering and occur during periods of extreme polarization.
 </p>
 </details>
  
 
-["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home"](https://zhanglinqi.github.io/assets/pdf/soda_tax_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4953476)], with [Xirong Lin](http://www.xirong-lin.com).   
-*Revision Requested, Journal of Health Economics*
+"Why Are There So Many Surveillance Cameras in China: Revenue Motivation Behind Law Enforcement", with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and Chenglin Li.   
 <details>
 <summary><u>Abstract</u></summary> 
-<p> Using a novel dataset that includes at-home and away-from-home food purchases, we study who is affected by soda taxes. We nonparametrically estimate a random coefficient nested logit model to exploit the rich heterogeneity in preferences and price elasticities across households, including SNAP participants and non-SNAP-participant poor. By simulating its impacts, we find that soda taxes are less effective away-from-home while more effective at-home, especially by targeting the total sugar intake of the poor, those with high total dietary sugar, and households without children. Our results suggest that ignoring either segment can lead to biased policy implications.
+<p> Why are there so many surveillance cameras in China? This paper explains the continuous expansion of China’s digital surveillance system from a fiscal perspective.
+Local governments may resort to extra-budgetary revenues, such as traffic fines, when facing fiscal distress. We collect data on public traffic camera procurements from 2014 to 2019 in China, and exploit the 2016 VAT reform as an exogenous shock to local fiscal revenue. We find that in regions with better road access, local governments
+procure more traffic enforcement cameras in response to fiscal pressure. An increase in traffic cameras as part of law enforcement efforts is associated with higher fine
+revenues, more driver petitions, and reduced activity in related industries, without a detectable improvement in road safety. These effects are more pronounced in cities at lower administrative levels and with lower fiscal transparency. Our findings highlight the hidden fiscal incentives underlying the construction of China’s surveillance cameras system.
 </p>
 </details>
 
 
-["Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets",](https://zhanglinqi.github.io/assets/pdf/noside_error_monopsony_LZ_ZY.pdf) with [Zhanhan Yu](https://yuzhanhan.github.io/personal-website/).
+"Presidents’ Heel: Hometown Biases and (Mis)allocation of Chinese Universities Funds", with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and Qilin Huang.
 <details>
 <summary><u>Abstract</u></summary> 
-<p> We extend the linear triangular structural model considered in Lewbel, Schennach, and Zhang (2024) to allow for measurement errors in the endogenous regressor. We show identification of the causal effect and distributions of unobservables using higher-order moments of variables when instrumental variables or repeated measurements are not available. We apply this approach to study monopsony power in the labor market for university professors at public research universities within the University System of Georgia, addressing endogeneity and measurement error concerns related to faculty salaries in the absence of suitable instruments. We find evidence of monopsony, with the exploitation rate -- a common measure of monopsony power -- robustly estimated at 36%. Our analysis shows that ignoring measurement error would significantly underestimate monopsony power.
+<p> Efficient allocation of public funds in higher education is essential for fostering technological progress and accumulating human capital. However, in practice, resource allocation is often influenced by political power. This paper investigates how leadership transitions in universities, specifically the turnover of university presidents, affect procurement allocation. Using comprehensive data on procurement contracts from all Chinese elite universities between 2013 and 2021, we find that universities significantly increase purchases from the new president’s hometown after the turnover. These contracts are more likely to be of lower quality, as indicated by the use of non-competitive procurement methods (e.g., single-source or negotiated bidding) and a higher incidence of missing contract information. Moreover, the increase is concentrated in procurement categories that are more susceptible to manipulation, such as specialized contracts and contracts with smaller monetary values. Our findings suggest that such patterns are driven by hometown favoritism rather than information asymmetry, revealing a subtle but consequential form of corruption that distorts the allocation of university resources in China.
 </p>
 </details>
 
@@ -156,10 +158,6 @@ concentrate on goods and construction projects procurement, high-value contracts
 </details>-->
 
 <!--	<p style="margin: 0px 0px 30px;">-->
-
-"Demand Estimation without Outside Good Shares", with Federico A. Bugni and Joel L. Horowitz.
-
-"Identifying Discrete-Continuous Demand Models with Simultaneity".
 
 <!-- "Marijuana Tax and Product Variety". -->
 
