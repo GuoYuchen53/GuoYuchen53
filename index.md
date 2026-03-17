@@ -38,7 +38,7 @@ Room 514, Chen Kou Bun Building,
 The Chinese University of Hong Kong,
 Shatin, New Territories, Hong Kong
 
-Email: guoych53\@gmail.com   
+Email: guoych53@gmail.com   
 
 
 
