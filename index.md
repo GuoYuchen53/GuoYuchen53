@@ -14,7 +14,7 @@ layout: default
 
 ## About
 
-I am an Postdoctoral Fellow, Collaborating Mentor: Ruixue Jia (UCSD), Ying Bai (CUHK)
+Yuchen Guo, I am an Postdoctoral Fellow, Collaborating Mentor: Ruixue Jia (UCSD), Ying Bai (CUHK)
 CUHK-UC San Diego Joint Laboratory on Chinese Economy; Department of Economics, Chinese University of Hong Kong. 
 
 My research interests are in **Digital Economics**, **Historical Economics** and **Political Economics**. My work focuses on the use of **big data in economic research**, with a particular emphasis on large-scale text and image data.
@@ -37,6 +37,9 @@ School of Government, Sun Yat-sen University&nbsp; CHINA
 Room 514, Chen Kou Bun Building,
 The Chinese University of Hong Kong,
 Shatin, New Territories, Hong Kong
+
+Personal website of Guo Yuchen, showcasing projects, technical blogs, and thoughts.
+Guo Yuchen, Yuchen Guo, guoyuchen53, personal website, portfolio.
 
 Email: guoych53@gmail.com   
 
