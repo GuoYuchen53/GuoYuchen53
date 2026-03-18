@@ -22,8 +22,7 @@ My research interests are in **Digital Economics**, **Historical Economics** and
 **Education**  
 Nov.2023-Nov.2024
 Joint PhD program at the Department of Economics, University of California, San Diego  
-***Co-Advisor: Ruixue Jia***  
-**（Funding from China Scholarship Council）**  
+***Co-Advisor: Ruixue Jia***   **（Funding from China Scholarship Council）**  
 
 Sept.2021-June.2025 
 PhD  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
