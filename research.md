@@ -34,7 +34,8 @@ moderating efect of local leaders’ personal characteristics and fnd that the a
 </details>
 
 ["财政压力与罚没收入",](https://www.dropbox.com/scl/fi/jiex4tfgpvmj6y4asmjmj/_.pdf?rlkey=0d60c2vmdiajbvjf1pjbeie5y&st=90n6v5lt&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and Chenglin Li.   
-*经济理论与经济管理*, 2025.
+*经济理论与经济管理*, 2025. 
+人大复印报刊资料《财政与税务》2025年第8期全文转载。
 
 ["地方政府建设智能视频监控系统的影响因素研究",](https://www.dropbox.com/scl/fi/r8dve05n8kk3l3pagj1ys/_.pdf?rlkey=fwd3q59wm9keogij129j95spf&st=1xuk0km7&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and Yulan Zhao.   
 *复旦公共行政评论*, 2025.  
