@@ -51,7 +51,7 @@ concentrate on goods and construction projects procurement, high-value contracts
 </p>
 </details>
 
-["社会与政府协同推动政府采购质量提升——基于政府采购协会成立的视角",] with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan).
+"社会与政府协同推动政府采购质量提升——基于政府采购协会成立的视角", with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan).
 *经济学（季刊）*, Accepted
 <details>
 <summary><u>Abstract</u></summary> 
